@@ -1,0 +1,33 @@
+Here are references used in completion of this assignment:
+Note: This is not a complete listing of references, I wasn't aware of that part of the assignment so in the future I will make sure to note them as I go instead of trying to do it after the fact.
+
+Documentation:
+http://ggplot.yhathq.com/docs/geom_histogram.html
+http://ggplot.yhathq.com/docs/geom_line.html
+http://ggplot.yhathq.com/docs/geom_point.html
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html
+http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/ols.html
+
+Udacity Forums:
+https://discussions.udacity.com/t/3-5-linear-regression-process-for-selection-of-features/27773
+https://discussions.udacity.com/t/solution-assesment/27611
+https://discussions.udacity.com/t/hard-time-with-ggplot-and-group-by/23961
+https://discussions.udacity.com/t/problem-plotting-histogram-of-rain-no-rain/25629/8
+
+Help Forums:
+http://stackexchange.com/ (i didn't know I would need to produce references, so I didn't jot down the actual topics, but many entris from this site were helpful for me.
+http://stats.stackexchange.com/questions/76676/scikit-sgd-regressor-rbf-kernel-approximation
+http://stackoverflow.com/questions/30406564/python-ggplot-how-do-i-layer-histograms
+http://stackoverflow.com/questions/13740672/in-pandas-how-can-i-groupby-weekday-for-a-datetime-column
+http://stackoverflow.com/questions/16852911/how-do-i-convert-dates-in-a-pandas-data-frame-to-a-date-data-type
+http://stackoverflow.com/questions/24901766/python-how-to-get-column-names-from-pandas-dataframe-but-only-for-continuous
+http://stackoverflow.com/questions/30737245/bar-chart-on-ggplot-with-python
+http://stackoverflow.com/questions/28178457/plotting-average-values-using-python-and-ggplot
+http://stackoverflow.com/questions/11856493/numpy-operands-could-not-be-broadcast-together-with-shape
+http://stackoverflow.com/questions/24560298/python-numpy-valueerror-operands-could-not-be-broadcast-together-with-shapes
+http://stackoverflow.com/questions/22915100/partial-fit-multivariate-sgdregressor
+http://stackoverflow.com/questions/20643300/training-sgdregressor-on-a-dataset-in-chunks
+http://stackoverflow.com/questions/30387365/how-to-use-sgdregressor-in-scikit-learn
+http://stackoverflow.com/questions/12065885/how-to-filter-the-dataframe-rows-of-pandas-by-within-in
+https://www.wikipedia.org/ some statistical terms I needed a bit brushing up on.
+https://www.khanacademy.org/math/probability/statistics-inferential/sampling_distribution/v/central-limit-theorem
