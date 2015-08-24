@@ -41,5 +41,7 @@ def plot_weather_data(turnstile_weather):
     grouped_df = turnstile_weather.groupby('DayOfWeek', as_index = False).mean()
 
     plot = ggplot(grouped_df, aes(x='DayOfWeek', y='ENTRIESn_hourly')) + geom_line() + geom_point()
-    plot = plot + ggtitle('NYC Subway: Average Entries by day of the week') + ylab('Average Entries') + xlab('Day of the week Monday = 0 Sunday = 6')
+    plot = plot + ggtitle('NYC Subway: Average Entries by day of the week') + ylab('Average Entries') + \
+           scale_x_continuous(limits=(-1,7), name='Day Of The Week', breaks=(0,1,2,3,4,5,6),
+                              labels=('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'))
     return plot
